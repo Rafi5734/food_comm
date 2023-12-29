@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "category": "fast-food",
+    "name": "প্রথাগত কারি প্ল্যাটার",
+    "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?resize=768,574",
+    "description": "আমাদের প্রথাগত কারি প্ল্যাটারের মধ্যে প্রথাগত আদায়ের রুচি অনুভব করুন। এটিতে বিভিন্ন স্থানীয় ইন্সপায়ার্ড কারি, ভাত, এবং নান রয়েছে।",
+    "price": 200
+  },
+  {
+    "id": 2,
+    "category": "fast-food",
+    "name": "চিকেন টেন্ডারস",
+    "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?resize=768,574",
+    "description": "আমাদের সুস্বাদু চিকেন টেন্ডারস চিপস সহ পরিচারণ করুন। এটি একটি দ্রুত চবি জন্য একটি ক্রিস্পি এবং সন্তুষ্ট পছন্দ।",
+    "price": 50
+  },
+  {
+    "id": 3,
+    "category": "fast-food",
+    "name": "চিজ পিজা স্লাইস",
+    "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?resize=768,574",
+    "description": "আমাদের চিজি আনন্দ অনুভব করুন আমাদের চিজ পিজা স্লাইসের সাথে। প্রিমিয়াম চিজ এবং একটি নির্দিষ্ট মাটি দিয়ে তৈরি করা, এটি একটি ক্লাসিক পছন্দ।",
+    "price": 50
+  },
+  {
+    "id": 4,
+    "category": "local-food",
+    "name": "প্রথাগত কারি প্ল্যাটার",
+    "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?resize=768,574",
+    "description": "আমাদের প্রথাগত কারি প্ল্যাটারের মধ্যে প্রথাগত আদায়ের রুচি অনুভব করুন। এটিতে বিভিন্ন স্থানীয় ইন্সপায়ার্ড কারি, ভাত, এবং নান রয়েছে।",
+    "price": 300
+  },
+  {
+    "id": 5,
+    "category": "local-food",
+    "name": "তীক্ষ্ণ স্ট্রিট নুডলস",
+    "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?resize=768,574",
+    "description": "আমাদের তীক্ষ্ণ স্ট্রিট নুডলস চমচমে স্থানীয় মসলা এবং তাজা উপাদানের মিশ্রণ অনুভব করুন। প্রতি একটি খাবারে রাস্তার আদায়।",
+    "price": 200
+  },
+  {
+    "id": 6,
+    "category": "local-food",
+    "name": "তান্দুরি চিকেন",
+    "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?resize=768,574",
+    "description": "আরোমটিক তান্দুরি চিকেন অনুভব করুন, বিশেষ মসলায় মরিচানো এবং একটি পারফেক্ট কর্ণ ওয়েনে সুখজনক ভাবে রান।",
+    "price": 350
+  },
+  {
+    "id": 7,
+    "category": "indian-food",
+    "name": "বাটার চিকেন কারি",
+    "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?resize=768,574",
+    "description": "আমাদের বাটার চিকেন কারির মধ্যে স্নিগ্ধতা ভালোবাসুন, সুগন্ধযুক্ত বাসমতি ভাত এবং নান ব্রেড সহ পরিবেশন করা হয়।",
+    "price": 350
+  },
+  {
+    "id": 8,
+    "category": "indian-food",
+    "name": "সবজি বিরিয়ানি",
+    "image": "https://example.com/biryani.jpg",
+    "description": "বাসমতি ভাত, সবজি, এবং মসলার একটি স্বাদময় মিশ্রণ স্বাদ অনুভব করুন বিরিয়ানির বাসমতি, এটি একটি শাকাহারি আনন্দ।",
+    "price": 250
+  },
+  {
+    "id": 9,
+    "category": "indian-food",
+    "name": "পনির টিক্কা মাসালা",
+    "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?resize=768,574",
+    "description": "আমাদের পনির টিক্কা মাসালার সুন্দর স্বাদ অনুভব করুন, একটি টমেটো গ্রেভি মধ্যে মসলা আছে যা সুখজনক পনিরের সাথে।",
+    "price": 350
+  },
+  {
+    "id": 10,
+    "category": "chinese-food",
+    "name": "কুং পাও চিকেন",
+    "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?resize=768,574",
+    "description": "আপনার ক্রেভিং মিটিয়ে দিন আমাদের কুং পাও চিকেন দিয়ে, একটি স্পাইসি সসে নরম চিকেন, পিনাট এবং সবজি দিয়ে মেখে ফেলুন।",
+    "price": 250
+  },
+  {
+    "id": 11,
+    "category": "chinese-food",
+    "name": "ডিম ভাত",
+    "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?resize=768,574",
+    "description": "আমাদের ডিম ভাতের সরলতা উপভোগ করুন, মুহুর্তে ভাত, মড়ার ডিম, এবং একটি সোয়া সস এর হিন্ট। একটি ক্লাসিক সাইড ডিশ।",
+    "price": 80
+  },
+  {
+    "id": 12,
+    "category": "chinese-food",
+    "name": "সবজি স্প্রিং রোল",
+    "image": "https://example.com/spring-rolls.jpg",
+    "description": "আমাদের সবজি স্প্রিং রোলে কুঁচো দিন, যা রঙিন প্রকাশ এবং একটি মিষ্টি ডিপিং সস দিয়ে ভরা।",
+    "price": 80
+  }
+]
